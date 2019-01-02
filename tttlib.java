@@ -56,7 +56,7 @@ class tttlib{
 
    //method that prints the tic tac toe board
    public static boolean printBoard(ArrayList <Integer> T){
-      int i=0;;
+      int i=0;
       //set array list that represents the board count for printing
       ArrayList <String> temp= new ArrayList <String> (Arrays.asList("0","1","2","3","4","5","6","7","8"));
       //error check
